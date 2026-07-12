@@ -43,7 +43,7 @@ export const galleryPhotos = [
 // --------------------------------------------------------------
 export const music = {
   spotifyEmbedUrl: "https://open.spotify.com/embed/track/3oL3XRtkP1WVbMxf7dtTdu", // <-- tempel URL embed Spotify di sini
-  note: "Lagu ini soalnya, hehe.",
+  note: "Lagu ini enak di dengar soalnya, hehe.",
 };
 
 // --------------------------------------------------------------
