@@ -24,7 +24,7 @@ export default function CouplePhoto() {
           <div className="photo-placeholder">
             <PlaceholderIcon />
             <span className="photo-placeholder-label">
-              Ganti dengan foto berdua kalian
+             
             </span>
           </div>
         )}
