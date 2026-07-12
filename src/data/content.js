@@ -71,14 +71,14 @@ export const timeline = [
     eyebrow: "Awal Cerita",
     title: "Pertama kali kenal",
     description:
-      "Kita bertemu di cafe saat aku lagi bersama kawanku, tanpa sengaja ku lihat kamu dan tergerak sendiri untuk meminta nomor whatsApp mu. jujur, aku terlalu berani bet wokwok.",
+      "Kita bertemu di cafe saat aku lagi bersama kawanku, tanpa sengaja ku lihat kamu dan tergerak sendiri untuk meminta nomor whatsApp mu. Jujur, aku terlalu berani bet wkwk.",
     filled: true,
   },
   {
     eyebrow: "Momen Penting",
     title: "Jadian",
     description:
-      "Momen penting ya? keknya chatan dari WhatsApp sudah menceritakan semua wkwk.",
+      "Momen penting ya? keknya chattan dari WhatsApp sudah menceritakan semua wkwk.",
     filled: true,
   },
   {
