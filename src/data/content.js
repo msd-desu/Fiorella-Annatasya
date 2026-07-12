@@ -42,7 +42,7 @@ export const galleryPhotos = [
 // https://open.spotify.com/embed/track/)
 // --------------------------------------------------------------
 export const music = {
-  spotifyEmbedUrl: "", // <-- tempel URL embed Spotify di sini
+  spotifyEmbedUrl: "https://open.spotify.com/embed/track/3oL3XRtkP1WVbMxf7dtTdu", // <-- tempel URL embed Spotify di sini
   note: "Lagu ini yang selalu kita putar bareng — kamu tau kenapa.",
 };
 
