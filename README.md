@@ -1,6 +1,6 @@
 # Untuk Fiorella 🤍
 
-Website ulang tahun, dibangun dengan Next.js.
+Website ulang tahun, dibangun dengan penuh cinta.
 
 ## Cara isi konten (foto, musik, cerita)
 
