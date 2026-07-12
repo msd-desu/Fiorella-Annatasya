@@ -20,6 +20,13 @@ export default function CouplePhoto() {
             sizes="(max-width: 720px) 100vw, 720px"
             style={{ objectFit: "cover" }}
           />
+        ) : (
+          <div className="photo-placeholder">
+            <PlaceholderIcon />
+            <span className="photo-placeholder-label">
+              Ganti dengan foto berdua kalian
+            </span>
+          </div>
         )}
       </div>
       <p className="photo-caption">{couplePhoto.caption}</p>
