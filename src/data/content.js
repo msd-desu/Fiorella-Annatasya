@@ -18,7 +18,7 @@ export const site = {
 // --------------------------------------------------------------
 export const couplePhoto = {
   url: "", // <-- tempel URL imgbb di sini
-  caption: "Salah satu momen favoritku — nanti diganti ya, Gas.",
+  caption: "Salah satu momen favoritku.",
 };
 
 // --------------------------------------------------------------
@@ -43,7 +43,7 @@ export const galleryPhotos = [
 // --------------------------------------------------------------
 export const music = {
   spotifyEmbedUrl: "https://open.spotify.com/embed/track/3oL3XRtkP1WVbMxf7dtTdu", // <-- tempel URL embed Spotify di sini
-  note: "Lagu ini yang selalu kita putar bareng — kamu tau kenapa.",
+  note: "Lagu ini soalnya, hehe.",
 };
 
 // --------------------------------------------------------------
