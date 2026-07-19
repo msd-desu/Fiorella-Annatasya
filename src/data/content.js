@@ -4,7 +4,7 @@
 // ============================================================
 
 export const site = {
-  herName: "Fiorella Anatasya",
+  herName: "Fiorella Annatasya",
   hisName: "Bagas",
 };
 
